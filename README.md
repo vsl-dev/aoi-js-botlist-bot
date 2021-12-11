@@ -1,6 +1,8 @@
 # Aoi.js botlist bot template
 Aoi.js botlist bot template v5 &amp; Node.js v16 
 
+[![Stars](https://img.shields.io/github/stars/vsl-dev/aoi.js-botlist-bot?style=social)](https://vsldev.tk/github) [![Discord](https://img.shields.io/discord/762267257551978527)](https://vsldev.tk/discord) [![License](https://img.shields.io/github/license/vsl-dev/aoi.js-botlist-bot)](https://vsldev.tk) [![Version](https://img.shields.io/github/v/release/vsl-dev/aoi.js-botlist-bot)](https://vsldev.tk/links)
+ 
 # Setup
 
 Change the values of the variables you see below according to the names of the variables!
