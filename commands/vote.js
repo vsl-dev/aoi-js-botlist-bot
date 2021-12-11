@@ -19,8 +19,8 @@ $description[1; **User <@$authorID> voted to <@$mentioned[1]> bot! **]
 
 $cooldown[6h;**You Can Vote Every 6 Hours** ]
 
-$onlyIf[$message[2]!=;\`\`\`
-Error! \`$getServerVar[prefix]vote @Bot
+$onlyIf[$message[1]!=;\`\`\`
+Error! $getServerVar[prefix]vote @Bot
               ^^^^
 Mising arguments! 
 \`\`\`]
