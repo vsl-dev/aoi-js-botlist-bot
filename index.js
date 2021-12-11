@@ -8,7 +8,7 @@ app.listen(process.env.PORT);
 
 const aoijs = require("aoi.js");
 const bot = new aoijs.Bot({
-	token: process.env['TOKEN'],
+	token: "TOKEN",
 	prefix: "$getServerVar[prefix]",
 	intents: "all",
 	mobile: false,
