@@ -55,3 +55,7 @@ npm i ytdl-core-discord
 - Github - [vsl-dev](https://vsldev.tk/github)
 - Discord - [VSL | Offical Server](https://vsldev.tk/discord)
 - Other Links - [vsldev.tk/links](https://vsldev.tk/links) 
+
+# Support
+
+[Support & Feedback](https://vsldev.tk/discord)
