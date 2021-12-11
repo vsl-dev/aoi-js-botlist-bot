@@ -28,7 +28,7 @@ bot.variables({
 
 [![image](https://user-images.githubusercontent.com/91078294/145676194-78739ab8-a6ed-4395-892e-74e05e2aca8c.png)](https://vsldev.tk/instagram)
 
-[![image](https://user-images.githubusercontent.com/91078294/145676101-dc48e5b5-8829-4b13-bee4-7d9171b38dd8.png)](https://vsldev.tk/github)
+[![image](https://user-images.githubusercontent.com/91078294/145676771-d736207c-5f98-477f-bf59-102402628014.png)](https://vsldev.tk/github)
 
 # Required packages 
 
