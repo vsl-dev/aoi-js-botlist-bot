@@ -54,4 +54,4 @@ npm i ytdl-core-discord
 - Instagram - [vsl.dev](https://vsldev.tk/instagram)
 - Github - [vsl-dev](https://vsldev.tk/github)
 - Discord - [VSL | Offical Server](https://vsldev.tk/discord)
-- Other Links - [vsldev.tk/links](https://vsldev.tk/links)
+- Other Links - [vsldev.tk/links](https://vsldev.tk/links) 
