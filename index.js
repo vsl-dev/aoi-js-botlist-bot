@@ -123,7 +123,7 @@ $description[1;
 \`$username#$discriminator[$authorID]\`
 **Owner İD**:
 \`$authorID\`
-| **[0 perm invite](https://discord.com/oauth2/authorize?client_id=$message[1]&scope=bot&permissions=0)** |]
+ **| [0 perm invite](https://discord.com/oauth2/authorize?client_id=$message[1]&scope=bot&response_type=code&permissions=0&disable_guild_select=true&guild_id=$getServerVar[server_id]) |**]
 
 $onlyForServers[$getServerVar[server_id];This command only work on my server!]
 
@@ -153,7 +153,7 @@ bot.status({
 	time: 12
 });
 bot.status({
-	text: "www.vsldev.tk", 
+	text: "vsldev.tk", 
 	type: "PLAYING", 
 	status: "online",
 	time: 12
