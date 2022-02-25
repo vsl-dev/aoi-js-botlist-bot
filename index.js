@@ -104,7 +104,7 @@ $message[1] $authorID
 
 $deletecommand
 
-$onlyForChannels[$getServerVar[bot_add_channel];Üzgünüm amma sadece <#$getServerVar[bot_add_channel]> ]
+$onlyForChannels[$getServerVar[bot_add_channel];You cant add bot in this channel go to here <#$getServerVar[bot_add_channel]> ]
 
 $useChannel[$getServerVar[bot_log_channel]]
 
